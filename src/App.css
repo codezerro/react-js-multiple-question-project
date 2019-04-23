@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+ .list-group{
+  width: 400px;
+  margin: 10px auto;
+  box-shadow: 0 10px 20px #ccc;
+  border: 2px solid rgb(39, 155, 35);
+  border-radius: 9px;
+
+}
+/* .list-group-item-red{
+  min-height: 90px;
+  background: red;
+} */
+.list-group-out{
+  width: 500px;
+  margin: 10px auto;
+  border: 1px solid rgb(127, 127, 127);
+  border-radius: 5px;
+  padding: 0px 0px 15px 0px;
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+}
+.list-group-item{
+  min-height: 90px;
+}
+.answer{
+  margin: -13px 0px 18px 0px;
+}
+ul{
+  list-style: none;
+}
